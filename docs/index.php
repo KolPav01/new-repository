@@ -1,7 +1,6 @@
 	qweqweeq	
-<<<<<<< HEAD
 	fsdfsdf
-=======
-	New diff string
+    New diff string
+    New diff string
 	
->>>>>>> master
+
